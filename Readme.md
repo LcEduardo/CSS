@@ -23,3 +23,6 @@ Mais uma obs: eu utilizo '*' no style para definir uma configuração global.
 
 ### COR03:
 Aqui damos uma leve aprofundada, utilizando as ferramentas aprendidas e explorando mais o style das CSS. 
+
+## EX005:
+Dando um destaque maior às fontes, é crucial reconhecer a relevância que elas desempenham na estética do seu site, assim como no âmbito da psicologia das cores. No contexto de estilo ('style'), é possível ajustar a fonte por meio do comando 'font-family'. Este comando permite a definição de uma combinação de fontes, considerando que alguns dispositivos podem aceitar determinadas fontes enquanto outros não. Portanto, você pode adicionar alternativas que o site poderá usar para representar a mesma fonte. Se necessário, consulte o site [w3schools](https://www.w3schools.com/cssref/css_websafe_fonts.php).
