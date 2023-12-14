@@ -26,3 +26,8 @@ Aqui damos uma leve aprofundada, utilizando as ferramentas aprendidas e exploran
 
 ## EX005:
 Dando um destaque maior às fontes, é crucial reconhecer a relevância que elas desempenham na estética do seu site, assim como no âmbito da psicologia das cores. No contexto de estilo ('style'), é possível ajustar a fonte por meio do comando 'font-family'. Este comando permite a definição de uma combinação de fontes, considerando que alguns dispositivos podem aceitar determinadas fontes enquanto outros não. Portanto, você pode adicionar alternativas que o site poderá usar para representar a mesma fonte. Se necessário, consulte o site [w3schools](https://www.w3schools.com/cssref/css_websafe_fonts.php).
+
+Nesse mesmo cenário, podemos usar 'font-size' para especificar o tamanho (ATENÇÃO: utilize px ou em) 16px é o padrão (o mesmo que 1em). Também, podemos utilizar 'font-weigth' para a intensidade da fonte (dependendo da fonte que escolher pode variar de 100 - 900). 
+
+## EX006:
+Podemos utilizar o [Google Fonts](https://fonts.google.com/specimen/Silkscreen) para obter fontes alternativas.
