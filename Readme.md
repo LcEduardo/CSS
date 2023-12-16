@@ -29,5 +29,20 @@ Dando um destaque maior às fontes, é crucial reconhecer a relevância que elas
 
 Nesse mesmo cenário, podemos usar 'font-size' para especificar o tamanho (ATENÇÃO: utilize px ou em) 16px é o padrão (o mesmo que 1em). Também, podemos utilizar 'font-weigth' para a intensidade da fonte (dependendo da fonte que escolher pode variar de 100 - 900). 
 
+### Font02:
+Proseguindo dentro do exemplo 5 e a questão das fontes. Podemos verificar, que o alinhamento é muito importante, aprendemos então alguns estilos em CSS para alinhar as tags. 
+
 ## EX006:
+Dando continuidade ao nosso aprendizado. Entramos no mundo das fonts...
+
+### Fonte01:
 Podemos utilizar o [Google Fonts](https://fonts.google.com/specimen/Silkscreen) para obter fontes alternativas.
+
+### Fonte02:
+Seguindo a mesma lógica do exemplo anterior, mas com uma pequena alteração. Nesse exemplo, baixamos as fontes de um site (não o Google Fonts) e com isso utilizamos alguns mecanismos para poder utiliza-las.
+
+## EX007:
+Saindo de fonts e entrando em 'seletores'...
+
+### Seletor01:
+Nesse exemplo, aprendemos a usar 'id' e 'class' para identificar uma tag especifica e modifica-la. Ou seja, colocando 'id' como atributo da tag eu posso especificar com um nome e no style eu posso apartir do '#nome' modificala (só ela vai receber aquela configuração). O outro jeito é por 'class', nesse cenário conseguimos dicionar mais de uma tag em uma mesma classe e todos que receberen o nome da classe vai receber a modificação, sendo assim, dentro de style eu posso usar '.nome' e fazer minhas alterações. 
