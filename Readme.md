@@ -46,3 +46,12 @@ Saindo de fonts e entrando em 'seletores'...
 
 ### Seletor01:
 Nesse exemplo, aprendemos a usar 'id' e 'class' para identificar uma tag especifica e modifica-la. Ou seja, colocando 'id' como atributo da tag eu posso especificar com um nome e no style eu posso apartir do '#nome' modificala (só ela vai receber aquela configuração). O outro jeito é por 'class', nesse cenário conseguimos dicionar mais de uma tag em uma mesma classe e todos que receberen o nome da classe vai receber a modificação, sendo assim, dentro de style eu posso usar '.nome' e fazer minhas alterações. 
+
+## EX008:
+Continuando no contexto de seletores, vamos nos apronfundar em 'pseudo-classes' aqui entramos em seletores especiais. São seletores que especificam um estado especial de um elemento. Para acessa-los utilize (':'). 
+
+### houver:
+O seletor 'houver', por exemplo, seleciona um elemento quando o mouse está sobre ele. Além de outros mecanismos apredidos. 
+
+### links: 
+Aqui usamos 'pseudo-elementos' que modifica o elemento sem precisar alterar no html. Como no exemplo, consigo adicionar a palavra link em todas as tags 'links' sem precisar ir em cada tag especificamente. Para acessa-lo, utilize ('::')
