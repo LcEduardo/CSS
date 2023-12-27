@@ -57,8 +57,14 @@ O seletor 'houver', por exemplo, seleciona um elemento quando o mouse está sobr
 Aqui usamos 'pseudo-elementos' que modifica o elemento sem precisar alterar no html. Como no exemplo, consigo adicionar a palavra link em todas as tags 'links' sem precisar ir em cada tag especificamente. Para acessa-lo, utilize ('::').
 
 ## EX009:
+Começamos a trabalhar com o conceito de 'box' para nós ajudarmos em nossos projetos...
+
+### BOX 01:
 Começamos a explorar o termo 'modelagem de caixas'. Nesse contexto, a modelagem de caixa em HTML/CSS refere-se à representação de elementos HTML como caixas retangulares, cada uma contendo conteúdo, preenchimento, borda e margens. Isso é fundamental para controlar o layout e o design em páginas web. As propriedades CSS, tais como largura (width), altura (height), preenchimento (padding), borda (border) e margem(margin), são utilizadas para estilizar essas caixas e criar layouts visualmente atraentes. 
 
 Além de tudo mencionado, buscamos maneiras de simplificar as configurações. Vale ressaltar que elementos como 'border', por exemplo, seguem uma lógica específica para serem adicionados, conforme demonstrado no exemplo. Adicionalmente, temos a capacidade de converter uma caixa de nível box para inline e vice-versa.
 
+### BOX 02:
 Exploramos, ainda, as tags de agrupamento semântico. Estas tags têm a finalidade de realizar uma separação semântica da estrutura do nosso site. Em outras palavras, fragmentamos o HTML de forma a distinguir claramente o cabeçalho (header) da parte principal (main). Dentro da seção principal, segmentamos o conteúdo em sessões (section), artigos (article), laterais (aside) e, por último, o rodapé (footer). Essa distinção não apenas contribui significativamente para a organização e clareza do código, mas também desempenha um papel crucial em termos de otimização para mecanismos de busca (SEO) e no ranqueamento por parte de crawlers, como os utilizados pelo Google.
+
+Vimos também como adicionar sombras (box-shadow) às nossas caixas e arredondar os vértices das caixas (border-radius). Vale ressaltar que, normalmente, as sombras são de cor preta e não são totalmente sólidas, ou seja, não precisam chamar tanta atenção.
